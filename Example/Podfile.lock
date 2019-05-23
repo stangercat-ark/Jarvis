@@ -1,0 +1,16 @@
+PODS:
+  - Jarvis (0.1.0)
+
+DEPENDENCIES:
+  - Jarvis (from `../`)
+
+EXTERNAL SOURCES:
+  Jarvis:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Jarvis: 471e5ce3cc05d74870c1419557e18f6f1213bdcf
+
+PODFILE CHECKSUM: 1404d6fcb21a72e3619dd14efdb07e717128bcc5
+
+COCOAPODS: 1.6.1
